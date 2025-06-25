@@ -13,7 +13,7 @@
 
 ![Dashboard] ![image](https://github.com/user-attachments/assets/4f5b8af9-e0af-409b-82c7-64707adf5de6)
 
-![Add Task] ![image](https://github.com/user-attachments/assets/4a0d392b-1771-4cf6-b878-a06d488f62b3)
+![Add Task] ![image](https://github.com/user-attachments/assets/83fdc5d5-e286-475b-93c5-1ffbcb829116)
 
 ![Task View] ![image](https://github.com/user-attachments/assets/1e36b60c-a605-4b3a-ad8b-dd88e5ad569d)
 
